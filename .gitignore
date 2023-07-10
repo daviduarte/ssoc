@@ -1,0 +1,7 @@
+results/
+video_teste/
+venv/
+__pycache__/
+bin/
+lib/
+lib64/
