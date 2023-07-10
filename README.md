@@ -1,5 +1,12 @@
 # Oficial REPO of: 
 
+
+mkdir dependencies 
+cd dependencies 
+git clone https://github.com/ultralytics/yolov5.git
+cd yolov5
+git checkout 15e82d296720d4be344bf42a34d60ffd57b3eb28
+
 # Installation: 
 sudo apt install cmake
 sudo apt-get install python3-dev python3-setuptools

@@ -76,7 +76,7 @@ class ObjectDetector:
 		#images = extractFrames()	
 
 	def initBackBoneYolov5(self):
-		YOLOV5_ROOT = os.path.join(definitions.ROOT_DIR, '../../../dependencies')
+		YOLOV5_ROOT = os.path.join(definitions.ROOT_DIR, 'dependencies')
 		print(YOLOV5_ROOT)
 		if str(YOLOV5_ROOT) not in sys.path:
 			print("porra")
