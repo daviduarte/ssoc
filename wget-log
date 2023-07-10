@@ -1,0 +1,11 @@
+--2022-10-26 14:55:26--  https://www.google.com/url?sa=t
+Resolvendo www.google.com (www.google.com)... 142.251.129.132, 2800:3f0:4001:803::2004
+Conectando-se a www.google.com (www.google.com)|142.251.129.132|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: não especificada [text/html]
+Salvando em: “url?sa=t”
+
+url?sa=t                                               [<=>                                                                                                              ]       0  --.-KB/s               url?sa=t                                               [ <=>                                                                                                             ]   1,42K  --.-KB/s    em 0s      
+
+2022-10-26 14:55:26 (12,0 MB/s) - “url?sa=t” salvo [1458]
+
